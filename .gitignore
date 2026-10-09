@@ -1,0 +1,36 @@
+# Byte-compiled
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (optional — uncomment if you don't want raw data in repo)
+# data/raw/*.csv
+# data/cleaned/*.csv
+
+# Logs
+logs/*.log
+
+# Test caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment files
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
